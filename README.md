@@ -5,9 +5,9 @@ Created on Mon Aug 22 18:38:15 2022
 @author: Leonardo
 """
 
-# Exercise 2
+# Rebalancing a Portfolio
 
-The code does a rebalances process, for this particular case for three dates ( 6/30/2017, 12/31/2017 and 6/30/2018 respectively).
+The code does a rebalances process, for this particular case for different dates.
 For each rebalance, it is needed 50 stocks with highest value scores from the starting universe. 
 
 ## Installation
